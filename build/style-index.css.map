@@ -1,0 +1,1 @@
+{"version":3,"file":"./style-index.css","mappings":";;;AAAA;CACC,gBAAgB;IACb,aAAa;IACb,sBAAsB;IACtB,eAAe;AACnB,C","sources":["webpack://wp-ichart-react-plugin/./src/style/style.css"],"sourcesContent":[".navmenubar{\r\n\tbackground: #eee;\r\n    display: flex;\r\n    padding: 5px 0 5px 5px;\r\n    font-size: 20px;\r\n}"],"names":[],"sourceRoot":""}

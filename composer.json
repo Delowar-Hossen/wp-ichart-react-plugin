@@ -1,0 +1,15 @@
+{
+    "name": "123/wp-ichart-react-plugin",
+    "autoload": {
+        "psr-4": {
+            "123\\WpIchartReactPlugin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Delowar-Hossen",
+            "email": "delowarhossen57@gmail.com"
+        }
+    ],
+    "require": {}
+}
